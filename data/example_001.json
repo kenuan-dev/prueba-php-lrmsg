@@ -1,0 +1,13 @@
+{
+  "truck": {
+    "weight_limit": 700
+  },
+  "cows": [
+    {"weight":360, "milk_daily": 40},
+    {"weight":250, "milk_daily": 35},
+    {"weight":400, "milk_daily": 43},
+    {"weight":180, "milk_daily": 28},
+    {"weight":50, "milk_daily": 12},
+    {"weight":90, "milk_daily": 13}
+  ]
+}
